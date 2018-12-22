@@ -1,0 +1,61 @@
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe.config
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.pdb
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Form1.resources
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Properties.Resources.resources
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.GenerateResource.Cache
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.exe
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.pdb
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Register.resources
+f:\documents\visual studio 2015\Projects\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.MainPage.resources
+E:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe.config
+E:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe
+E:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.pdb
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csprojAssemblyReference.cache
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.MainPage.resources
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Form1.resources
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Properties.Resources.resources
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Register.resources
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.GenerateResource.cache
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.CoreCompileInputs.cache
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.exe
+E:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.pdb
+G:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe.config
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.exe
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.pdb
+G:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe
+G:\PROJECT\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.pdb
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csprojResolveAssemblyReference.cache
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.MainPage.resources
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Form1.resources
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Properties.Resources.resources
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Register.resources
+G:\PROJECT\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.GenerateResource.Cache
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe.config
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.pdb
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csprojAssemblyReference.cache
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.MainPage.resources
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Form1.resources
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Properties.Resources.resources
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Register.resources
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.GenerateResource.cache
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.CoreCompileInputs.cache
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.exe
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.pdb
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.CreateClassPage.resources
+C:\Users\fraziern2\Desktop\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.CreateStudentForm.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe.config
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.exe
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.pdb
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.exe
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\bin\Debug\LearningPlatform.pdb
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csprojResolveAssemblyReference.cache
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.CreateClassPage.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.CreateStudentForm.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.MainPage.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Form1.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Properties.Resources.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.Register.resources
+F:\Desktop\New folder\LearningPlatform-master\LearningPlatform\LearningPlatform\obj\Debug\LearningPlatform.csproj.GenerateResource.Cache
